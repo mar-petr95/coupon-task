@@ -1,0 +1,18 @@
+
+{ 
+ "_id": "5c57f66f1cd03602abb1a2cb", 
+ "type": "coupon", 
+ "name": "1 USD Voucher", 
+ "description": "For 20 points you can get a voucher worth of 1 USD",  "points": 20, 
+ "coupon": { 
+ "name": "Voucher worth of 1 USD", 
+ "description": "Voucher worth of 1 USD from 20 rewardpoints",  "discountType": "ABSOLUTE", 
+ "discountAbsolute": { 
+ "amount": 10, 
+ "currency": "USD" 
+ }, 
+ "allowAnonymous": true, 
+ "maxRedemptions": 1, 
+ "status": "VALID" 
+ } 
+}
